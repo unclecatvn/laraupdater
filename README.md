@@ -66,7 +66,7 @@ Recommended Laravel Version >= 8
 This package can be installed through Composer:
 
 ```sh
-composer require pcinaglia/laraupdater
+composer require unclecatvn/laraupdater
 ```
 
 After installation you must perform these steps:
